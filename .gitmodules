@@ -1,0 +1,3 @@
+[submodule "MediatRDemo"]
+	path = MediatRDemo
+	url = https://github.com/BindushreeR/MediatRDemo.git
