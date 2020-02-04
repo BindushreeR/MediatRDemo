@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\New\\source\\repos\\MediatorDemo\\MediatorDemo\\MediatorDemo.csproj": {}
+    "C:\\Users\\Bindushree\\Documents\\GitHub\\MediatRDemo\\MediatorDemo\\MediatorDemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\New\\source\\repos\\MediatorDemo\\MediatorDemo\\MediatorDemo.csproj": {
+    "C:\\Users\\Bindushree\\Documents\\GitHub\\MediatRDemo\\MediatorDemo\\MediatorDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\New\\source\\repos\\MediatorDemo\\MediatorDemo\\MediatorDemo.csproj",
+        "projectUniqueName": "C:\\Users\\Bindushree\\Documents\\GitHub\\MediatRDemo\\MediatorDemo\\MediatorDemo.csproj",
         "projectName": "MediatorDemo",
-        "projectPath": "C:\\Users\\New\\source\\repos\\MediatorDemo\\MediatorDemo\\MediatorDemo.csproj",
-        "packagesPath": "C:\\Users\\New\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\New\\source\\repos\\MediatorDemo\\MediatorDemo\\obj\\",
+        "projectPath": "C:\\Users\\Bindushree\\Documents\\GitHub\\MediatRDemo\\MediatorDemo\\MediatorDemo.csproj",
+        "packagesPath": "C:\\Users\\Bindushree\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bindushree\\Documents\\GitHub\\MediatRDemo\\MediatorDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\New\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Bindushree\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

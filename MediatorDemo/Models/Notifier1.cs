@@ -12,7 +12,7 @@ namespace MediatorDemo.Models
     {
         public Task Handle(NotificationMessage notification, CancellationToken cancellationToken)
         {
-            Debug.WriteLine($"Debugging from Notifier 1.  : {notification.NotifyText} ");
+            Debug.WriteLine($"Debugging from Notifier 1 handler.  : {notification.NotifyText} ");
             return Task.CompletedTask;
         }
     }
